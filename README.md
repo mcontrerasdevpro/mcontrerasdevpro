@@ -8,7 +8,7 @@
 <!-- BREVE DESCRIPCION -->
 <h3 align="left">About me:</h3>
 Passionate developer focused on building modern, scalable, and well-structured applications. 
-Currently finalizing a **Full Stack Master's degree**, I combine my background in operations with the JavaScript and Python ecosystem.<br>
+I have recently completed a Full Stack Master's degree, where I combine my experience in operations with the JavaScript and Python ecosystem.<br>
 
 - 📍 **Location:** Madrid, Spain<br>
 - ✉️ **Contact:** [mcontrerasjaen@gmail.com](mailto:mcontrerasjaen@gmail.com)<br>
