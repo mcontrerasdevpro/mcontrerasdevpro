@@ -71,7 +71,7 @@ I have recently completed a Full Stack Master's degree, where I combine my exper
 *Professional showcase designed with modern UI/UX trends.*
 - **Tech Stack:** React, Tailwind CSS, Vercel.
 - **Key Features:** Responsive design and optimized performance.
-- [🔗 Visit Portfolio](https://github.com/mcontrerasjaen/portfolio-Miguel-Contreras) | [📁 Source Code](https://github.com/mcontrerasjaen/portfolio-Miguel-Contreras)
+- [🔗 Visit Portfolio](https://www.mcontreras.dev) | [📁 Source Code](https://www.mcontreras.dev)
 
 ---
 
