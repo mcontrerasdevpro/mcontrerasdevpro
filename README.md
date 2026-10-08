@@ -28,7 +28,7 @@ I have recently completed a Full Stack Master's degree, where I combine my exper
       <a href="https://x.com/MiguelinC77" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@miguelinC77" height="30" width="40" /></a>
     </td>
     <td>
-      <a href="https://www.instagram.com/elsurvi77" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elsurvi77" height="30" width="40" /></a>
+      <a href="https://www.instagram.com/mcontrerasdev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elsurvi77" height="30" width="40" /></a>
     </td>
     <td>
       <a href="https://www.youtube.com/@elsurvi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elsurvi" height="30" width="40" /></a>
