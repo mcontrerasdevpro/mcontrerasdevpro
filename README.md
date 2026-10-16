@@ -1,14 +1,10 @@
 <p align="center">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="./Github%20Banner%20%C2%B7%20oscuro.png" />
-   <source media="(prefers-color-scheme: light)" srcset="./Github%20Banner%20%C2%B7%20claro.png" />
-   <img src="./Github%20Banner%20%C2%B7%20claro.png" alt="Miguel Contreras Gallardo — Founder @ NexuraIA · AI Engineer & Full Stack Developer" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./Github%20Banner%20%C2%B7%20oscuro.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./Github%20Banner%20%C2%B7%20claro.png" />
+    <img src="./Github%20Banner%20%C2%B7%20claro.png" alt="Miguel Contreras Gallardo — Founder @ NexuraIA · AI Engineer & Full Stack Developer" width="100%" />
   </picture>
 </p>
-
-<h1 align="center">👋 Hi, I'm Miguel Contreras</h1>
-
-<h3 align="center">Founder of <a href="https://www.nexuraia.com">NexuraIA</a> · AI Engineer & Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.mcontreras.dev"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
