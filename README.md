@@ -27,6 +27,23 @@ Since 2024 I have been developing full stack applications with AI agents as a fr
 - 🚀 **Focus:** full stack SaaS · AI agents & voice assistants · process automation with n8n
 - 🤝 **Open to:** client projects, collaborations and full stack / AI engineering opportunities
 
+### 🧠 Currently
+
+- 🤖 Studying **AI Engineering** at 4Geeks Academy (generative AI, LLM-based products)
+- 🏗️ Improving **software architecture**: clean architecture, SOLID, moving monoliths towards services
+- 🧪 Strengthening **testing**: unit & integration tests against real databases
+- 🔁 Setting up **CI/CD** pipelines with GitHub Actions
+
+### 🔗 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mcontrerasdev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://x.com/mcontrerasdev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mcontrerasdev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@elsurvi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://discord.com/users/1025451490745258095" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+</p>
+
 ---
 
 ## 💼 Experience
@@ -187,24 +204,4 @@ Digitalises and automates the processes of a car repair workshop: service catalo
 
 ---
 
-## 🧠 Currently
-
-- 🤖 Studying **AI Engineering** at 4Geeks Academy (generative AI, LLM-based products)
-- 🏗️ Improving **software architecture**: clean architecture, SOLID, moving monoliths towards services
-- 🧪 Strengthening **testing**: unit & integration tests against real databases
-- 🔁 Setting up **CI/CD** pipelines with GitHub Actions
-
----
-
-## 🔗 Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mcontrerasdev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://x.com/mcontrerasdev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/mcontrerasdev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@elsurvi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://discord.com/users/1025451490745258095" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-</p>
-
 <p align="center"><sub>Last updated: October 2026</sub></p>
-
