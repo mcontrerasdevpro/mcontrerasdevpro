@@ -1,7 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Github banner-dark.png" />
-    <img src="./banner-light.png" alt="Miguel Contreras Gallardo — Founder @ NexuraIA · AI Engineer & Full Stack Developer" width="100%" />
+   <source media="(prefers-color-scheme: dark)" srcset="./Github%20Banner%20%C2%B7%20oscuro.png" />
+   <source media="(prefers-color-scheme: light)" srcset="./Github%20Banner%20%C2%B7%20claro.png" />
+   <img src="./Github%20Banner%20%C2%B7%20claro.png" alt="Miguel Contreras Gallardo — Founder @ NexuraIA · AI Engineer & Full Stack Developer" width="100%" />
   </picture>
 </p>
 
