@@ -7,10 +7,10 @@
 <h3 align="center">Founder of <a href="https://www.nexuraia.com">NexuraIA</a> · AI Engineer & Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.mcontreras.dev"><img src="https://img.shields.io/badge/Portfolio-mcontreras.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mcontrerasdev"><img src="https://img.shields.io/badge/LinkedIn-mcontrerasdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.nexuraia.com"><img src="https://img.shields.io/badge/NexuraIA-nexuraia.com-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NexuraIA" /></a>
-  <a href="mailto:contact@mcontreras.dev"><img src="https://img.shields.io/badge/Email-contact@mcontreras.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.mcontreras.dev"><img src="https://img.shields.io/badge/Portfolio-mcontreras.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> br
+  <a href="https://www.linkedin.com/in/mcontrerasdev"><img src="https://img.shields.io/badge/LinkedIn-mcontrerasdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> br
+  <a href="https://www.nexuraia.com"><img src="https://img.shields.io/badge/NexuraIA-nexuraia.com-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NexuraIA" /></a> br
+  <a href="mailto:contact@mcontreras.dev"><img src="https://img.shields.io/badge/Email-contact@mcontreras.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> br
 </p>
 
 ---
