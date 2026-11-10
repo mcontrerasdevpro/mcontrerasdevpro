@@ -126,7 +126,7 @@ Since 2024 I have been developing full stack applications with AI agents as a fr
 
 ## 📂 Featured Projects
 
-### 🏢 [VotifAI](https://github.com/mcontrerasdevpro/VotifAI) — Multi-tenant SaaS for property management firms · **In production** · *Jul 2026 – Present*
+### 🏢 VotifAI — Multi-tenant SaaS for property management firms · **In production** · *Jul 2026 – Present*
 
 Cloud platform that centralises the work of Spanish property management offices (*administración de fincas*) and their owners' associations: legally compliant owners' meetings, accounting, SEPA direct debits, bank reconciliation and tax forms — across the whole portfolio at once.
 
@@ -137,7 +137,7 @@ Cloud platform that centralises the work of Spanish property management offices 
   - Norma 43 bank statement import with **rule-learning reconciliation**; SEPA pain.008 / pain.001 files
   - Generates Spanish tax forms (111, 190, 347) · tenant isolation · role-based access · GDPR
   - **280 automated tests** (206 route tests + 74 against a real PostgreSQL)
-- [🔗 Live](https://votifai.nexuraia.com) · [📁 Source](https://github.com/mcontrerasdevpro/VotifAI)
+- [🔗 Live](https://votifai.nexuraia.com) · 🔒 Private repo
 
 ### 🎙️ Nexura — Voice & chat AI agent · **In production**
 
@@ -159,13 +159,13 @@ Proof of concept for secure digital voting in Spain: it checks voter eligibility
   - Accessibility: audio reading of the ballot with a privacy warning before anything is read aloud
 - [🔗 Live demo](https://civora.nexuraia.com) · [📁 Source](https://github.com/mcontrerasdevpro/civora) · AGPL-3.0
 
-### 📋 [NexuraIA Diagnostics](https://github.com/mcontrerasdevpro/nexuraia-formularios) — Client acquisition funnel · **In production**
+### 📋 NexuraIA Diagnostics — Client acquisition funnel · **In production**
 
 Free audit and paid process-diagnosis questionnaires that NexuraIA uses to qualify new business clients.
 
 - **Stack:** HTML/JS · Stripe payment links · n8n webhooks · Nginx in Docker
 - **Highlights:** payment gate with Stripe before the paid questionnaire, private invitation links that bypass payment, answers routed to n8n for automatic processing and email alerts
-- [🔗 Live](https://diagnostico.nexuraia.com) · [📁 Source](https://github.com/mcontrerasdevpro/nexuraia-formularios)
+- [🔗 Live](https://diagnostico.nexuraia.com) · 🔒 Private repo
 
 ### 🚗 [JaFrauto Motor](https://github.com/mcontrerasdevpro/JaFrautoMotor-React-AppWeb) — Workshop digitalisation · *Mar 2026 – Present*
 
@@ -178,7 +178,70 @@ Digitalises and automates the processes of a car repair workshop: service catalo
 ### 🎓 More projects
 
 - 🏫 **[GECAP](https://github.com/mcontrerasdevpro/spain-fs-pt-130-Gecap)** — Management system for primary schools: forms, data management and statistics. Final team project of the 4Geeks Academy Master's (React, Flask, PostgreSQL). [Live](https://spain-fs-pt-130-gecap-p5fx.onrender.com)
-- 🌐 **[Personal Portfolio](https://www.mcontreras.dev)** — React, Tailwind CSS, Vercel. [Source](https://github.com/mcontrerasdevpro/portfolio-Miguel-Contreras)
+- 🌐 **[Personal Portfolio](https://www.mcontreras.dev)** — React, Tailwind CSS, Vercel.
+
+---
+
+## 🗂️ Repository map
+
+Every repository is tagged by purpose, so each group is one click away.
+
+| | Group | What's inside | Browse |
+| --- | --- | --- | --- |
+| 🏢 | **NexuraIA** | Products, websites and client-acquisition tools of my company | [topic:nexuraia](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3Anexuraia) |
+| 🤝 | **Client & own projects** | Apps built for clients and side projects | [topic:cliente](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3Acliente) · [topic:proyecto-propio](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3Aproyecto-propio) |
+| 🧑‍💼 | **Portfolio** | Personal site, profile and AI tools comparison | [topic:portfolio](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3Aportfolio) |
+| 🎓 | **Training** | AI Engineering course and 4Geeks Full Stack Master's exercises (archived) | [topic:formacion](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3Aformacion) |
+| 🔖 | **Reference forks** | Agent skills, AI video, 3D and n8n tools I study and build on | [topic:fork-referencia](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3Afork-referencia) |
+
+<details>
+<summary><b>🏢 NexuraIA</b> — products and websites</summary>
+
+| Project | What it does | Code |
+| --- | --- | --- |
+| [Nexura DJ Studio](https://github.com/mcontrerasdevpro/nexura-dj-studio) | Desktop DJ software for Windows: local music + YouTube, MIDI control | Public |
+| [Civora](https://github.com/mcontrerasdevpro/civora) | Verifiable voting with zero-knowledge identity | Public |
+| VotifAI | SaaS for property management firms · [live](https://votifai.nexuraia.com) | Private |
+| nexuraia.com | Company website with voice AI agent · [live](https://www.nexuraia.com) | Private |
+| NexuraIA Diagnostics | Free audit and process diagnosis funnel · [live](https://diagnostico.nexuraia.com) | Private |
+| Bus driver planner | Demo for scheduling drivers, lines and shifts in coach companies | Private |
+| Nexura Studio | AI image, video and audio studio | Private |
+| WhatsApp AI agent | Ready-to-deploy WhatsApp assistant for small businesses | Private |
+
+</details>
+
+<details>
+<summary><b>🤝 Client & own projects</b></summary>
+
+- [JaFrauto Motor](https://github.com/mcontrerasdevpro/JaFrautoMotor-React-AppWeb) — car workshop website with bookings and admin panel
+- [Android MicroServer](https://github.com/mcontrerasdevpro/android-microserver) — turns an Android phone into an ARM64 Linux micro-server
+- [RAG multi-tenant backend](https://github.com/mcontrerasdevpro/rag-multi-tenant-backend) — NestJS backend for retrieval-augmented generation
+- [Nnook](https://github.com/mcontrerasdevpro/Nnook-gestorCitas) — appointment manager
+- [Restaurant manager](https://github.com/mcontrerasdevpro/Gestor-restaurantes) — restaurant management app
+
+</details>
+
+<details>
+<summary><b>🎓 Training</b></summary>
+
+- **AI Engineering** (in progress): [data preparation](https://github.com/mcontrerasdevpro/aie-preparar-datos) · [financial dashboard](https://github.com/mcontrerasdevpro/ai-eng-financial-dashboard-context-project-Miguel-Contreras) · [company project monorepo](https://github.com/mcontrerasdevpro/ai-engineering-company-project-monorepo)
+- **Full Stack Master's · 4Geeks Academy**: 42 exercises and projects, archived → [topic:bootcamp-4geeks](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3Abootcamp-4geeks)
+
+</details>
+
+<details>
+<summary><b>🔖 Reference forks</b> — by theme</summary>
+
+[agent-skills](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3Aagent-skills) ·
+[video-ia](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3Avideo-ia) ·
+[3d](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3A3d) ·
+[n8n](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3An8n) ·
+[voz-ia](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3Avoz-ia) ·
+[agentes-ia](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3Aagentes-ia) ·
+[recursos-estudio](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3Arecursos-estudio) ·
+[herramientas](https://github.com/mcontrerasdevpro?tab=repositories&q=topic%3Aherramientas)
+
+</details>
 
 ---
 
@@ -204,4 +267,4 @@ Digitalises and automates the processes of a car repair workshop: service catalo
 
 ---
 
-<p align="center"><sub>Last updated: October 2026</sub></p>
+<p align="center"><sub>Last updated: November 2026</sub></p>
