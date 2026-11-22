@@ -260,8 +260,8 @@ Every repository is tagged by purpose, so each group is one click away.
 
 <p align="center">
   <a href="https://github.com/mcontrerasdevpro">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mcontrerasdevpro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" />
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mcontrerasdevpro&layout=compact&langs_count=8&theme=algolia" alt="Top languages" />
+    <img height="180em" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+    <img height="180em" src="./profile-summary-card-output/github_dark/1-repos-language.svg" alt="Top languages" />
   </a>
 </p>
 
