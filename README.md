@@ -261,7 +261,7 @@ Every repository is tagged by purpose, so each group is one click away.
 <p align="center">
   <a href="https://github.com/mcontrerasdevpro">
     <img height="180em" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
-    <img height="180em" src="./profile-summary-card-output/github_dark/1-repos-language.svg" alt="Top languages" />
+    <img height="180em" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages" />
   </a>
 </p>
 
